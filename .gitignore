@@ -1,0 +1,10 @@
+# O pacote público contém somente os arquivos do site.
+.env*
+*.pdf
+*.doc*
+*.xls*
+*.csv
+*.json
+*backup*
+*original_preservado*
+node_modules/
